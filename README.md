@@ -1,6 +1,6 @@
 # Pipeline-Processor-IITB-RISC
-Done as Part of course project EE309 </br>
-Team :
+Done as Part of course project EE309 Microprocessors </br>
+Team : </br>
 Parth Shettiwar </br>
 Jayesh Chaudhary </br>
 Sai Gaurav </br>
